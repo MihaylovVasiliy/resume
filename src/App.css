@@ -92,7 +92,7 @@ img {
     border-radius: 25px;
     background: #E5D3BD;
     border: 2px solid #c3524a;
-    opacity: 0.90;
+    opacity: .9;
 }
 
 @media all and (max-width: 600px) {
